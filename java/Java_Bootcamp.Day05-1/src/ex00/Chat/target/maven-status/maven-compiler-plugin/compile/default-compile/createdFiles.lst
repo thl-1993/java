@@ -1,0 +1,6 @@
+edu\school21\chat\models\User$UserBuilder.class
+edu\school21\chat\models\ChatRoom$ChatRoomBuilder.class
+edu\school21\chat\models\Message$MessageBuilder.class
+edu\school21\chat\models\ChatRoom.class
+edu\school21\chat\models\User.class
+edu\school21\chat\models\Message.class

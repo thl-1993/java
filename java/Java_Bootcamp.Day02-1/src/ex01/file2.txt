@@ -1,0 +1,2 @@
+You need to implement an application that accepts signatures.txt as input (you should describe it yourself; the filename is explicitly specified in the program code). It contains a list of file types and their respective signatures in HEX format. Example (the specified format of this file must be respected):
+{)Y│Wо╤╕☼

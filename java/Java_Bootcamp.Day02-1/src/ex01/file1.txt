@@ -1,0 +1,8 @@
+Input/output classes in Java are represented by a broad hierarchy. The key classes that describe byte input/output behavior are the abstract classes InputStream and OutputStream. They do not implement specific mechanisms for byte stream processing, but delegate it to their subclasses, such as FileInputStream/FileOutputStream.
+To understand the use of this functionality,
+you should implement an application for analyzing signatures of arbitrary files.
+This signature allows to define the content type of a file and consists of a set of "magic numbers".
+These numbers are usually located at the beginning of the file. For example, a signature for the PNG
+file type is represented by the first eight bytes of a file, which are the same for all PNG images:
+
+{)Y│Wо╤╕☼
